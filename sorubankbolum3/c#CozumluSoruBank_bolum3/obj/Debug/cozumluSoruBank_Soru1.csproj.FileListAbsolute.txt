@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\c#CozumluSoruBank_bolum3\bin\Debug\c#CozumluSoruBank_bolum3.exe.config
+C:\Users\CASPER\source\repos\c#CozumluSoruBank_bolum3\bin\Debug\c#CozumluSoruBank_bolum3.exe
+C:\Users\CASPER\source\repos\c#CozumluSoruBank_bolum3\bin\Debug\c#CozumluSoruBank_bolum3.pdb
+C:\Users\CASPER\source\repos\c#CozumluSoruBank_bolum3\obj\Debug\cozumluSoruBank_Soru1.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\c#CozumluSoruBank_bolum3\obj\Debug\cozumluSoruBank_Soru1.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\c#CozumluSoruBank_bolum3\obj\Debug\c#CozumluSoruBank_bolum3.exe
+C:\Users\CASPER\source\repos\c#CozumluSoruBank_bolum3\obj\Debug\c#CozumluSoruBank_bolum3.pdb
