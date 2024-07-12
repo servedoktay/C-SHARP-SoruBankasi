@@ -1,0 +1,7 @@
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru17\bin\Debug\cozumluSoruBankSoru17.exe.config
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru17\bin\Debug\cozumluSoruBankSoru17.exe
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru17\bin\Debug\cozumluSoruBankSoru17.pdb
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru17\obj\Debug\cozumluSoruBankSoru17.csproj.AssemblyReference.cache
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru17\obj\Debug\cozumluSoruBankSoru17.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru17\obj\Debug\cozumluSoruBankSoru17.exe
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru17\obj\Debug\cozumluSoruBankSoru17.pdb
