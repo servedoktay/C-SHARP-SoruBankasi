@@ -1,0 +1,1 @@
+bir texti 5 kez yazdıran method

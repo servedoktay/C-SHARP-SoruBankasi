@@ -1,0 +1,14 @@
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\bin\Debug\net8.0\cozumluSoruBankSoru3.exe
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\bin\Debug\net8.0\cozumluSoruBankSoru3.deps.json
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\bin\Debug\net8.0\cozumluSoruBankSoru3.runtimeconfig.json
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\bin\Debug\net8.0\cozumluSoruBankSoru3.dll
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\bin\Debug\net8.0\cozumluSoruBankSoru3.pdb
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\obj\Debug\net8.0\cozumluSoruBankSoru3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\obj\Debug\net8.0\cozumluSoruBankSoru3.AssemblyInfoInputs.cache
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\obj\Debug\net8.0\cozumluSoruBankSoru3.AssemblyInfo.cs
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\obj\Debug\net8.0\cozumluSoruBankSoru3.csproj.CoreCompileInputs.cache
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\obj\Debug\net8.0\cozumluSoruBankSoru3.dll
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\obj\Debug\net8.0\refint\cozumluSoruBankSoru3.dll
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\obj\Debug\net8.0\cozumluSoruBankSoru3.pdb
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\obj\Debug\net8.0\cozumluSoruBankSoru3.genruntimeconfig.cache
+C:\Users\CASPER\source\repos\cozumluSoruBankSoru3\obj\Debug\net8.0\ref\cozumluSoruBankSoru3.dll
